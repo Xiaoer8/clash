@@ -29,7 +29,9 @@
 
 http://sub.adtchrome.com/adt-chinalist-easylist.txt
 
-anti-AD命中率最高列表
+anti-AD命中率最高列表#包含秋风规则
+
+https://anti-ad.net/easylist.txt
 
 https://cdn.jsdelivr.net/gh/privacy-protection-tools/anti-AD@master/anti-ad-easylist.txt
 
